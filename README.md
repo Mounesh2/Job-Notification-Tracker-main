@@ -5,8 +5,7 @@ A web application that helps students track and manage job notifications easily.
 ---
 
 ## 🌐 Live Demo
-🔗 https://job-notification-tracker-rouge.vercel.app/
-
+🔗 
 ---
 
 ## ✨ Features
@@ -27,7 +26,7 @@ A web application that helps students track and manage job notifications easily.
 ## 📦 Installation (Run Locally)
 
 ```bash
-git clone https://github.com/sanjaychavan05/Job-Notification-Tracker.git
+git clone https://github.com/Mounesh2/Job-Notification-Tracker-main.git
 cd Job-Notification-Tracker
 npm install
 npm run dev
